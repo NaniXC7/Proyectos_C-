@@ -1,0 +1,13 @@
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.exe
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.deps.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.runtimeconfig.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.runtimeconfig.dev.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.dll
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\bin\Debug\netcoreapp3.1\Hola_Mundo.pdb
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.AssemblyInfo.cs
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.dll
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.pdb
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Hola_Mundo\obj\Debug\netcoreapp3.1\Hola_Mundo.genruntimeconfig.cache

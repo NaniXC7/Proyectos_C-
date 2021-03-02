@@ -1,0 +1,13 @@
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.exe
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.deps.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.runtimeconfig.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.runtimeconfig.dev.json
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.dll
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.pdb
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfo.cs
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.dll
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.pdb
+C:\Users\danie\Desktop\UMG 2021\Progra 1\C#\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.genruntimeconfig.cache
